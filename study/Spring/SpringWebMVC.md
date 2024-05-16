@@ -2,7 +2,7 @@
 title: Spring Web MVC
 description: 
 published: true
-date: 2024-05-16T14:47:14.297Z
+date: 2024-05-16T14:50:50.469Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-16T14:47:14.297Z
@@ -10,7 +10,7 @@ dateCreated: 2024-05-16T14:47:14.297Z
 
 ## Spring MVC 구성요소(DispatcherSerlvet에서 사용하는 여러 인터페이스)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/6f1d7a23-905a-4fde-ab88-874c96c7ab09/c2fad99e-73a2-4e50-9d74-6efc75e363b9/Untitled.png)
+![untitled_(1).png](/untitled_(1).png)
 
 DispatcherServlet의 기본 전략
 
