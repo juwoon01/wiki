@@ -2,7 +2,7 @@
 title: JSX 소개
 description: 
 published: true
-date: 2024-05-23T13:15:10.806Z
+date: 2024-05-23T13:21:36.139Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-23T13:15:10.806Z
@@ -82,6 +82,7 @@ function App() {
 - 자바스크립트 코드를 변환해주는 트랜스 컴파일러
 - 최신 자바스크립트 문법을 지원하지 않는 환경에서도 최신 문법을 사용할 수 있도록 지원
 - 즉 바벨을 사용할 경우 ES5문법만 지원하는 브라우저에 알맞게 ES6문법을 ES5 문법으로 번역
+- [https://babeljs.io/repl#?browsers=defaults%2C not ie 11%2C not ie_mob 11&build=&builtIns=false&corejs=3.21&spec=false&loose=false&code_lz=Q&debug=false&forceAllTransforms=false&modules=false&shippedProposals=false&circleciRepo=&evaluate=false&fileSize=false&timeTravel=false&sourceType=module&lineWrap=true&presets=env%2Creact%2Cstage-2&prettier=false&targets=&version=7.24.5&externalPlugins=&assumptions={}](https://babeljs.io/repl#?browsers=defaults%2C%20not%20ie%2011%2C%20not%20ie_mob%2011&build=&builtIns=false&corejs=3.21&spec=false&loose=false&code_lz=Q&debug=false&forceAllTransforms=false&modules=false&shippedProposals=false&circleciRepo=&evaluate=false&fileSize=false&timeTravel=false&sourceType=module&lineWrap=true&presets=env%2Creact%2Cstage-2&prettier=false&targets=&version=7.24.5&externalPlugins=&assumptions=%7B%7D)
 
 ## **웹팩(webpack)**
 
