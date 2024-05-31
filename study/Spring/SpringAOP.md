@@ -2,7 +2,7 @@
 title: Spring AOP
 description: 
 published: true
-date: 2024-05-31T08:14:00.867Z
+date: 2024-05-31T08:22:32.759Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-31T08:14:00.867Z
@@ -19,7 +19,7 @@ dateCreated: 2024-05-31T08:14:00.867Z
 
 공통 관심사 : 여러 객체에서 공통적으로 사용되는 코드(로그 추적 기능, 트랜잭션 기능 등)
 
-![untitled_(2).png](/untitled_(2).png)
+![aop2.png](/aop2.png)
 
 # 상세설명
 
@@ -80,7 +80,7 @@ Weaving
 
 **PointCut 표현식**
 
-![untitled_(3).png](/untitled_(3).png)
+![aop1.png](/aop1.png)
 
 **`<aop:aspect>` 엘리먼트**
 
