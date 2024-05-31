@@ -2,7 +2,7 @@
 title: github연동
 description: 
 published: true
-date: 2024-05-20T15:45:42.608Z
+date: 2024-05-31T08:20:49.207Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-20T15:08:28.252Z
@@ -30,13 +30,13 @@ dateCreated: 2024-05-20T15:08:28.252Z
 3. 왼쪽 탐색 메뉴에서 Deploy Keys**를** 클릭합니다 .
 4. **Add deploy Key** 버튼을 클릭합니다 .
 
-![untitled_(2).png](/untitled_(2).png)
+![deploykeys1.png](/deploykeys1.png)
 
 5. 이 키에 대해 원하는 이름(예: Wiki)을 입력하고 이전에 생성된 공개 키의 내용을 `cat`명령어로 확인하여 붙여넣습니다. 
 6. **쓰기 액세스 허용**이 선택되어 있는지 확인하세요 .
 7. **키 추가** 버튼을 클릭하세요 .
 
-![untitled_(3).png](/untitled_(3).png)
+![deploykeys2.png](/deploykeys2.png)
 
 ## Wiki.js 관리자 페이지에서
 
